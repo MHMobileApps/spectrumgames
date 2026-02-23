@@ -162,3 +162,10 @@ body {
   padding-top: 8px;
   color: #aeb4ff;
 }
+
+#derby-track {
+  width: 100%;
+  border: 3px solid #5b4cbc;
+  background: #02020a;
+  image-rendering: pixelated;
+}
