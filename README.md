@@ -1,10 +1,10 @@
 # Spectrum Games Hub
 
-Homepage launcher for Spectrum-inspired browser games.
+This repo now has a homepage that launches individual retro games.
 
 ## Games
 
-- **The Wild Bunch** — menu-driven 1984-style remake featuring murderer identification, Pinkerton pursuit, telegraph clues, poker, and reaction duels.
+- **The Wild Bunch** — browser remake inspired by 1984 structure and mechanics.
 
 ## Run locally
 
@@ -12,10 +12,10 @@ Homepage launcher for Spectrum-inspired browser games.
 python3 -m http.server 4173
 ```
 
-Open <http://localhost:4173> and start from the hub.
+Open <http://localhost:4173> and choose a game.
 
-## Wild Bunch controls
+## Controls (Wild Bunch)
 
-- `1-9`: menu options
-- Any key (or `Space`) during duel after `HE MOVES!`
-- `R`: restart from any screen
+- `1-9`: Menu options
+- Any key / `Space`: Duel reaction input
+- `R`: Restart from any screen
